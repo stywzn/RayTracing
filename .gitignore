@@ -1,0 +1,14 @@
+# 忽略编译生成的可执行文件
+my_raytracer
+
+# 忽略所有图片文件
+*.ppm
+*.png
+*.jpg
+
+# 忽略 C++ 编译中间文件
+*.o
+*.obj
+
+# 忽略编辑器配置 (VSCode)
+.vscode/
